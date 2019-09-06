@@ -5,7 +5,7 @@ Implementing int8 requires cudnn or cublas based on DP4A
 The results are credible because int32 and float32 have similar accuracy.
 
 
-create ./dataset/test   ./dataset/train  ./dataset/q   folder fisrt 
+create ./dataset/test   ./dataset/train  ./dataset/q   folder first 
 
 dataset.py------transforming pytorch cifar10 datasets into JPG format and pytorch dataloader
 
