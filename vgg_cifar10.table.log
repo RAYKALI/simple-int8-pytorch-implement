@@ -1,0 +1,14 @@
+conv1: value range 0 - 2.4482791, interval 0.0011954487999901175, interval num 2048, threshold num 2046
+[   0    0    0 ...    0    0 1000]
+conv2: value range 0 - 3.340914, interval 0.0016313056694343686, interval num 2048, threshold num 2046
+[415391000    842000    838000 ...         0         0      1000]
+conv3: value range 0 - 5.355919, interval 0.0026151947677135468, interval num 2048, threshold num 2046
+[140014000    156000    178000 ...         0         0      1000]
+conv4: value range 0 - 7.2672706, interval 0.0035484719555824995, interval num 2048, threshold num 2046
+[295043000    378000    348000 ...         0         0      1000]
+conv5: value range 0 - 11.305863, interval 0.0055204411037266254, interval num 2048, threshold num 2046
+[70481000   120000   128000 ...        0        0     1000]
+conv6: value range 0 - 18.576801, interval 0.009070703759789467, interval num 2048, threshold num 2046
+[156362000    295000    282000 ...         0         0      1000]
+conv7: value range 0 - 21.332705, interval 0.010416359640657902, interval num 2048, threshold num 1919
+[160683000    270000    257000 ...         0         0      1000]
